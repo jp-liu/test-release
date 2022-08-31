@@ -1,17 +1,17 @@
 {
-  "name": "test-release",
+  "name": "my-test-release",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "packageManager": "pnpm@7.9.5",
   "description": "",
   "author": "jp-liu <fortune_coder@foxmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/jp-liu/test-release#readme",
+  "homepage": "https://github.com/jp-liu/my-test-release#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.jp-liu/test-release.git"
+    "url": "git+https://github.jp-liu/my-test-release.git"
   },
-  "bugs": "https://github.com/jp-liu/test-release#issues",
+  "bugs": "https://github.com/jp-liu/my-test-release#issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
